@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'may-cay',
+    'database_user' => 'root',
+    'database_password' => '123456',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '4QKX7rfj2OfEYFNUdojqydjz4K1Wtx1KwmsGjL2KevDWICEKz4gnUgYt',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-02-17',
+    'locale' => 'vi-VN',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'bjUkYkxc7xMPNyhfrRAN3eBJBjvHCrMs2gTCv4DZiMfyscCNUTzcdWp7',
+    'cookie_iv' => 'JsIUkmmh',
+    'new_cookie_key' => 'def00000276eced0909cba76e9acf8a984c0503a637de3bdaa285ea54f9e714c46b26a836f9f2a467716f8eb5c1ba2bb0f6d8ac66b5076ad0211c7733aad8008ebc713e0',
+  ),
+);

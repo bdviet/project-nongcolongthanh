@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_checkpayment</name>
+    <displayName><![CDATA[Thanh to&aacute;n bằng s&eacute;c]]></displayName>
+    <version><![CDATA[2.0.4]]></version>
+    <description><![CDATA[M&ocirc;-đun n&agrave;y cho ph&eacute;p thanh to&aacute;n bằng s&eacute;c.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Bạn muốn xóa chi tiết?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

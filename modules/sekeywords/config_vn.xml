@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sekeywords</name>
+    <displayName><![CDATA[Từ kh&oacute;a t&igrave;m kiếm]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Hiển thị c&aacute;c từ kh&oacute;a đ&atilde; dẫn truy cập v&agrave;o website của bạn.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

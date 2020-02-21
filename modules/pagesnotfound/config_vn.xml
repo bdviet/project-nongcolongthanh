@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagesnotfound</name>
+    <displayName><![CDATA[Kh&ocirc;ng t&igrave;m thấy trang]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Th&ecirc;m một tab v&agrave;o Stats dashboard, hiển thị c&aacute;c trang theo y&ecirc;u cầu của kh&aacute;ch truy cập của bạn chưa được t&igrave;m thấy.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

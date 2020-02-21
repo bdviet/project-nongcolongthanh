@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockreassurance</name>
+    <displayName><![CDATA[T&aacute;i đảm bảo với kh&aacute;ch h&agrave;ng]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Th&ecirc;m một khối th&ocirc;ng tin nhằm mục đ&iacute;ch cung cấp th&ocirc;ng tin hữu &iacute;ch để trấn an kh&aacute;ch h&agrave;ng rằng cửa h&agrave;ng của bạn l&agrave; đ&aacute;ng tin cậy.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

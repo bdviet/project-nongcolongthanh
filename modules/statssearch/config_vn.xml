@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statssearch</name>
+    <displayName><![CDATA[T&igrave;m trong shop]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[Th&ecirc;m một tab v&agrave;o Stats dashboard, hiển thị những từ kh&oacute;a được t&igrave;m kiếm bởi người thăm cửa h&agrave;ng của bạn.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

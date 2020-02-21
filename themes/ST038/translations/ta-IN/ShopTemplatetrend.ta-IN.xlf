@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/sweet/ST038/themes/ST038/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" source-language="ta-IN" target-language="ta-IN" datatype="plaintext">
+    <body>
+      <trans-unit id="79e4711773d11249f7ec7797bec00531">
+        <source>Sign up to receive  offer on your first order</source>
+        <target>Sign up to receive  offer on your first order</target>
+        <note>Context:
+File: /var/www/html/sweet/ST038/themes/ST038/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="9ead77549dffd375659d47c2c88b8423">
+        <source> Everyday at Huge Discounts in our Designer Clothing Sale</source>
+        <target> Everyday at Huge Discounts in our Designer Clothing Sale</target>
+        <note>Context:
+File: /var/www/html/sweet/ST038/themes/ST038/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

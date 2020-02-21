@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\wamp\www\Paradise\themes\PRS605\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="dfa592421ec2584a960f077610eb19bd">
+        <source>Subscribe now</source>
+        <target>Subscribe now</target>
+        <note>Context:
+File: C:\wamp\www\Paradise\themes\PRS605\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="502298038900779cf138535c58a815e8">
+        <source>Editors now use Lorem Ipsum as model text</source>
+        <target>Editors now use Lorem Ipsum as model text</target>
+        <note>Context:
+File: C:\wamp\www\Paradise\themes\PRS605\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,41 @@
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Thank you for shopping on {shop_name}!
+
+Chi tiết đơn hàng
+
+Đơn hàng: {order_name} Khởi tạo ngày {date}
+
+Phương thức thanh toán: {payment}
+
+Tham chiếu	Sản phẩm	Đơn giá	Số lượng	Tổng giá  {products_txt} {discounts_txt}
+Sản phẩm	{total_products}
+Giảm giá	{total_discounts}
+Gói quà	{total_wrapping}
+Vận chuyển	{total_shipping}
+Including total tax	{total_tax_paid}
+total paid	{total_paid}
+
+Vận chuyển
+
+Công ty vận chuyển {carrier}
+
+Phương thức thanh toán: {payment}
+
+Địa chỉ giao hàng
+
+{delivery_block_txt}
+
+Địa chỉ thanh toán
+
+{invoice_block_txt}
+
+Follow your order and download your invoice on our shop, go to the [Order history and details]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Guest Tracking]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

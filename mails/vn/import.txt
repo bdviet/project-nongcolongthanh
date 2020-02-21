@@ -1,0 +1,11 @@
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Import finished
+
+Tập tin {filename} đã được nhập thành công vào cửa hàng của bạn.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

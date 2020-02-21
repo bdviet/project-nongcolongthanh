@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsdata</name>
+    <displayName><![CDATA[Ph&acirc;n t&iacute;ch dữ liệu cho thống k&ecirc;]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[M&ocirc;-đun n&agrave;y phải được k&iacute;ch hoạt nếu bạn muốn sử dụng chức năng thống k&ecirc;.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_wirepayment</name>
+    <displayName><![CDATA[Thanh to&aacute;n chuyển khoản]]></displayName>
+    <version><![CDATA[2.0.4]]></version>
+    <description><![CDATA[Chấp nhận thanh to&aacute;n bằng chuyển khoản.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Bạn có chắc muốn xóa chi tiết của bạn?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

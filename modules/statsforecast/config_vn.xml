@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsforecast</name>
+    <displayName><![CDATA[Thống k&ecirc; tr&ecirc;n Dashboard]]></displayName>
+    <version><![CDATA[2.0.3]]></version>
+    <description><![CDATA[Đ&acirc;y l&agrave; module ch&iacute;nh choStats dashboard. N&oacute; sẽ hiển thị một bản t&oacute;m tắt của tất cả c&aacute;c số liệu thống k&ecirc; hiện tại của bạn.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

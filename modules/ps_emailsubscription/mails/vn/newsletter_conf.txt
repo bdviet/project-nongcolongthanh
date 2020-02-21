@@ -1,0 +1,9 @@
+{shop_url}
+
+Xin chào,
+
+Cám ơn bạn đã đăng kí nhận tin từ chúng tôi.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_customtext</name>
+    <displayName><![CDATA[C&aacute;c khối văn bản t&ugrave;y chỉnh]]></displayName>
+    <version><![CDATA[4.1.0]]></version>
+    <description><![CDATA[T&iacute;ch hợp c&aacute;c khối văn bản t&ugrave;y chỉnh ở bất kỳ đ&acirc;u trong mặt tiền của h&agrave;ng của bạn]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

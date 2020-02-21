@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statssales</name>
+    <displayName><![CDATA[Mua b&aacute;n v&agrave; đặt h&agrave;ng]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Th&ecirc;m đồ họa tr&igrave;nh b&agrave;y sự tiến h&oacute;a của doanh số b&aacute;n h&agrave;ng v&agrave; đơn đặt h&agrave;ng v&agrave;o Th&ecirc;m đồ họa tr&igrave;nh b&agrave;y sự tiến h&oacute;a của doanh số b&aacute;n h&agrave;ng v&agrave; đơn đặt h&agrave;ng v&agrave;o bảng điều khiển Stats.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

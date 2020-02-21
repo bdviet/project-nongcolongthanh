@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsequipment</name>
+    <displayName><![CDATA[Tr&igrave;nh duyệt v&agrave; hệ điều h&agrave;nh]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Th&ecirc;m một tab chứa c&aacute;c biểu đồ về tr&igrave;nh duyệt web v&agrave; sử dụng hệ điều h&agrave;nh v&agrave;o Stats dashboard.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statspersonalinfos</name>
+    <displayName><![CDATA[Th&ocirc;ng tin kh&aacute;ch h&agrave;ng đ&atilde; đăng k&iacute;]]></displayName>
+    <version><![CDATA[2.0.2]]></version>
+    <description><![CDATA[Th&ecirc;m th&ocirc;ng tin về kh&aacute;ch h&agrave;ng đ&atilde; đăng k&yacute; của bạn (như giới t&iacute;nh v&agrave; tuổi t&aacute;c) v&agrave;o Stats dashboard.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

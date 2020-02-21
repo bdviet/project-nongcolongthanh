@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_linklist</name>
+    <displayName><![CDATA[Danh S&aacute;ch Li&ecirc;n Kết]]></displayName>
+    <version><![CDATA[3.0.3]]></version>
+    <description><![CDATA[Th&ecirc;m một khối c&oacute; một số li&ecirc;n kết.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

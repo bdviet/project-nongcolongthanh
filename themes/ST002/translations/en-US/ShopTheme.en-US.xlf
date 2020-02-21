@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/presta/PRS606/themes/PRS606/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="439bbab529fbf6009a93ed5891519978">
+        <source>News Letter</source>
+        <target>News Letter</target>
+        <note>Context:
+File: /var/www/html/presta/PRS606/themes/PRS606/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="5fd00a1c4d4e8e765b87c24ab1400241">
+        <source>Get exclusive deals you wont find anywhere 
+                                                else straight to your inbox!</source>
+        <target>Get exclusive deals you wont find anywhere 
+                                                else straight to your inbox!</target>
+        <note>Context:
+File: /var/www/html/presta/PRS606/themes/PRS606/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/presta/PRS606/themes/PRS606/templates/checkout/_partials/footer.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="7601c8e861088bd27255e18afaefab6b">
+        <source>%copyright% %year% - Ecommerce software by %prestashop%</source>
+        <target>%copyright% %year% - Ecommerce software by %prestashop%</target>
+        <note>Context:
+File: /var/www/html/presta/PRS606/themes/PRS606/templates/checkout/_partials/footer.tpl:55</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
